@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wdth,wght@12..96,75..100,200..800&family=Bricolage+Grotesque:opsz,wdth,wght@12..96,75..100,200..800&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+
+body {
+    font-family: "DM Sans", sans-serif;
+    background-color:#fff4df;
+    font-size:20px;
+}
+
+p{
+    text-align: justify;
+}
+
+
+
+h1 {
+text-align: center; 
+color:#ff7b00;
+font-weight: 600;
+font-family: "Bricolage Grotesque", sans-serif;
+}
+
+
+#miColor { 
+color: #ff8d21;
+font-weight: 700;
+text-decoration: underline;
+
+}
+
+a:link {
+    color: #ff8d21;
+}
+
+a:visited, #vinculo:visited {
+    color:#ff8d21;
+   
+}
+
+a:active{
+    background-color:white;
+}
+
+
+h2{
+    background-color: #ffa652 ;
+    font-family: "Bricolage Grotesque", sans-serif;
+    color: white;
+    text-transform:capitalize;
+    font-size: 25px;
+    text-align: left;
+}
+
+a:hover{
+    color: #ffcd90;
+}
+
+img {
+    width: 20%;
+    display: block;
+    margin: auto;
+    border-radius: 500px; 
+} /* foto de perfil*/
+
+
+/*imagenes de trabajos:*/
+.contenedor-imagenes{
+    display:flex;
+}
+.trabajo1 {
+    width: 15%;
+    border-radius: 10px;
+    display: flex;
+}
+
+.trabajo2{
+    width: 15%;
+    border-radius: 10px;
+    display: flex;
+}
+.trabajo3{
+    width: 15%;
+    border-radius: 10px;
+    display: flex;
+}
+.trabajo4{
+    width: 15%;
+    border-radius: 10px;
+    display: flex;
+}
+.trabajo5{
+    width: 15%;
+    border-radius: 10px;
+    display: flex;
+}
+.trabajo6{
+    width: 15%;
+    border-radius: 10px;
+    display: flex;
+}
+
+
